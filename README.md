@@ -14,7 +14,6 @@ Serviço que realiza o parse de protocolos de comunicação de sistemas embarcad
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Javascript
-- React
 - NodeJS
 - Websocket
 
