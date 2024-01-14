@@ -1,0 +1,30 @@
+{
+  "name": "server-net",
+  "version": "1.0.0",
+  "description": "Servidor para interpretar o protocolo da GalileoSky",
+  "main": "index.js",
+  "engines": {
+    "node": "18.18.0"
+  },
+  "scripts": {
+    "test": "npx jest",
+    "start": "node ./app.js"
+  },
+  "keywords": [
+    "GalileoSky",
+    "protocolo"
+  ],
+  "author": "Luis Gustavo",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "log": "^6.3.1",
+    "net": "^1.0.2",
+    "os": "^0.1.2",
+    "toml": "^3.0.0",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "assert": "^2.1.0"
+  }
+}
