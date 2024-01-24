@@ -28,7 +28,7 @@ Entretanto, o projeto pode ser adaptado para responder a outros protocolos de co
 
 ## 🔖 Layout
 
-O Layout pode ser encontrado no Figma por meio do seguinte [Link]()
+O aplicativo [BLE-app](https://github.com/LGustta13/BLE-app) utilizará do interpretador, o seu layout se encontra neste [Link](https://www.figma.com/file/qgwWujNtdWrZmuNFNuFTFb/BLE-app?type=design&node-id=0-1&mode=design)
 
 ## ⏯️ Testes
 
